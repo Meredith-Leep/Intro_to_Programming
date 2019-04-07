@@ -1,0 +1,1 @@
+hash = {:dog => Chico, cat: Emma, :dog2 => Oliver, boyfriend: Nate}
